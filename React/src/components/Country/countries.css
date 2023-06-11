@@ -1,0 +1,32 @@
+/* .country-place{
+         display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+.makeStyles-grid-13 {
+    width: 100%;
+    padding: 40px;
+}
+.MuiGrid-spacing-xs-2 {
+    width: calc(100% + 16px);
+    margin: -8px;
+}
+.MuiGrid-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+.MuiGrid-grid-xs-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+}
+.MuiGrid-item {
+    margin: 0;
+    box-sizing: border-box;
+} */
